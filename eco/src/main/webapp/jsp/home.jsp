@@ -5,7 +5,7 @@
 <title>Paypal Express Checkout Demo</title>
 </head>
 <body>
-<center><h1>Paypal Express Checkout Demo (java/classic nvp)</h1></center>
+<center><h21>Paypal Express Checkout Demo (java/classic nvp)</h2></center>
 
 <form name="TestShop" action="setexpresscheckout.do" method="post">	
 	<input type="hidden" name="actionName" value="setexpresscheckout.do"/>
